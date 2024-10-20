@@ -32,7 +32,7 @@ np.random.seed(42)
 x = np.linspace(0, 10, 500)
 
 # Create the random rough terrain (cumulative random walk with noise)
-rough_terrain = np.cumsum(np.random.normal(0, 3, size=x.size))
+rough_terrain = np.cumsum(np.random.normal(0, 2, size=x.size))
 
 # Scale the roughness so that it doesn't dominate the mountain peaks
 rough_terrain = rough_terrain / 2
