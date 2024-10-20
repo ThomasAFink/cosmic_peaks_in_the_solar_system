@@ -6,6 +6,8 @@ The tallest mountains and geological features across different celestial bodies 
 ### Why Are Martian Volcanoes So Much Taller Than Earth's Highest Peaks?
 The striking height difference between Martian volcanoes, like Olympus Mons (standing at around 21.9 km), and Earth's highest peaks, such as Mount Everest (8.8 km), can be attributed to several key factors related to the geological and environmental characteristics of Mars:
 
+<img src="https://github.com/ThomasAFink/cosmic_peaks_in_the_solar_system/blob/main/img/mountains_earth_and_volcanoes_mars.png?raw=true" />
+
 **1. Lower Gravity on Mars**
 Mars has only about 38% of Earth's gravity. This lower gravitational force allows volcanic structures on Mars to grow much taller without collapsing under their own weight. On Earth, the stronger gravitational pull limits the maximum height that mountains or volcanoes can reach before they become structurally unstable.
 
